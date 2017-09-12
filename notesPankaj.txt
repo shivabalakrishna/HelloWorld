@@ -1,0 +1,48 @@
+rootscope has global existance in the angular program and this service is used for communicating between two controllers
+
+$routeParams service : is used to get the url parameters
+
+create an application which have these tabs  show employee details with sort/, add employee,view employee, edit employee, contact us, login/logout,  
+
+
+
+<div ng-include="'menu.html'"></div>
+
+firbase is a cloud database that is used for maintaining various tables in nested fashion
+
+
+ajs2
+
+<app-property-biinding [id]="'0'" (productDetail)="showspecification($event)">
+
+showspecification(product : Product){
+this.product = product;
+}
+
+@Output () productdDetail = new EventEmitter<Product>();
+
+@Input() id : string;
+
+private products : Product[] = [];
+
+
+one way data binding in ajs2
+
+<input [ng-model]="firstName" > {{firstName}}
+
+<input [(ng-model)]="firstName" > {{firstName}}
+
+
+export class propertybinding implements oninit{
+	private fn : string = "Mohan";
+	private ln : string = "kumar";
+
+	private a:string = '0';
+	private b:string = '0';
+}
+
+calculate area after taking three sides of the triangle
+
+
+
+

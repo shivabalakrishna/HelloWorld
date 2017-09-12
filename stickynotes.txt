@@ -1,0 +1,320 @@
+
+h182846
+www.visualstudio.com/en-US/products/visual-studio-ultimate-with-MSDN-vs
+42200
+
+ticket for outlook
+10557758
+
+199.63.73.228
+Pass...1
+
+
+https://honeywell.com/sites/hra/Pages/mpki.aspx
+
+http://pki.honeywell.com/
+
+
+laptop serial num
+PB22MG0
+
+Honeywell
+call this num 
+08026588360 with extn 42200 option 1
+
+honey well customer care
+0008004407049
+
+ticket
+inc000010661062
+
+
+
+or 
+mobile number
+1244172777 or 9810065911
+
+42200 option 1
+guest wifi access
+
+ticket : inc000010855391
+INC000010855815
+
+uname: shiva.karapa
+pad: password.123
+
+
+
+imei
+357246059407591
+
+
+http://gromo.github.io/jquery.scrollbar/
+
+https://www.skype.com/go/downloading?source=lightinstaller&ver=7.26.0.101&LastError=403
+
+http://bit.ly/2bUOSTA
+
+VPN ISSUE
+open services from start menu and restart cicso "anyconect secure mobility agent"
+
+PKI issue
+ie issue
+open connections from internet options and check "automatic detect settings" and uncheck "use automatic" configuration script and uncheck use a proxy server for your lan
+and in advanced tab check all five use ssl 2.0 to use tls 1.2 at last from the list.
+
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailmvc
+49-36-12
+
+http://blog.teamtreehouse.com/mastering-developer-tools-console
+
+http://www.phpied.com/3-ways-to-define-a-javascript-class/
+
+http://thecodeship.com/web-development/the-undefined-vs-null-pitfall-in-javascript/
+
+https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/null
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators
+
+http://viralpatel.net/blogs/javascript-tips-tricks/
+
+https://www.codementor.io/javascript/tutorial/javascript-best-practices
+
+Password1
+http://dojo.telerik.com/
+
+http://tutorials.jenkov.com/angularjs/watch-digest-apply.html
+http://htmldog.com/guides/javascript/advanced/
+http://htmldog.com/guides/javascript/advanced/oo/
+http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/
+http://www.codeproject.com/Articles/576246/A-Shopping-Cart-Application-Built-with-AngularJS
+
+199.63.73.149
+fibtron
+8867472757
+
+https://H199718@de08u1688.honeywell.com/scm/dynamo/dynamo_alarm_suite.git
+https://h199718@pmtbitbucket.honeywell.com/scm/gdynamo/dynamo_alarm_suite.git
+
+guestwifishiva1welcome.12
+h182846
+www.visualstudio.com/en-US/products/visual-studio-ultimate-with-MSDN-vs
+42200
+22351
+199.63.73.228
+Pass...1
+var sMESLandingPageURL = "http://
+
+https://honeywell.com/sites/hra/Pages/mpki.aspx
+
+http://pki.honeywell.com/
+
+i3lsoftware.asset
+5546 3702 2758 9162
+
+8679
+
+
+laptop serial num
+PB22MG0
+
+Honeywell
+call this num 
+080 26588360 with extn 42200 option 1
+
+honey well customer care
+0008004407049
+
+ticket
+inc000010661062
+
+https://itim.honeywell.com/idm/controller
+imc000012253220
+or 
+mobile number
+1244172777 or 9810065911
+
+Jira
+
+https://de08u1686.honeywell.com/secure/Dashboard.jspa 
+
+
+
+imei
+357246059407591
+
+https://hps-ie1a-vs97to.dev1.honeywell.com
+
+http://gromo.github.io/jquery.scrollbar/
+
+https://www.skype.com/go/downloading?source=lightinstaller&ver=7.26.0.101&LastError=403
+
+http://bit.ly/2bUOSTA
+
+
+https://de08u1688.honeywell.com/projects/DYNAMO/repos/dynamo_alarm_suite/browse
+
+
+5546
+3702
+2758
+9162
+111 0x5
+adh7241 1055 5632
+9910099100
+g5818666
+
+6601395305
+6301393678
+6601352141
+
+
+http://10.6.13.208:8083/proxy.pac
+
+jiofi
+9113693831
+
+airtel dongle itc
+7259159448
+alternate num 08022988249
+
+internet ticket chaudhary sakshi 
+INC000012134521
+
+
+SHIVA BALA KRISHNA K 
+satish k y
+9566205492 9966162613 p jagadish
+8247463246
+Manikanta A
+
+7829611122 reddihari
+
+itc smg 99 86 508 446 /  08022988888
+
+hjkl7890^
+
+
+
+
+APAC-CAS-01.global.ds.honeywell.com imc000011666099
+The ticket number is INC000011667182
+
+ fv
+Welcome!
+
+
+
+1984SHIVA
+03060
+
+72047783 
+17348182
+password.123
+182 railway
+http://jsfiddle.net/J5nCS/1/
+http://jsfiddle.net/J5nCS/
+http://jsfiddle.net/u74Ag/
+
+https://de08u1686.honeywell.com/secure/Dashboard.jspa
+
+
+https://plnkr.co/edit/rjO0d49rJa1Xq4CB7yv2?p=catalogue
+
+
+http://www.json-generator.com/
+[
+  '{{repeat(200, 300)}}',
+  {
+    _id: '{{objectId()}}',
+    index: '{{index()}}',
+    
+    isRead: '{{bool()}}',
+    starred:'{{bool()}}',
+    
+    subject: '{{random("blue moon", "brown ball", "green shirt","blue shirt", "brown pants", "green scocks")}}',
+    name: '{{firstName()}} {{surname()}}',
+    
+    company: '{{company().toUpperCase()}}',
+    email: '{{email()}}',
+   
+    content: '{{lorem(1, "paragraphs")}}',
+    time: '{{date(new Date(2014, 0, 1), new Date(), "YYYY-MM-ddThh:mm:ss Z")}}',
+
+
+
+340266637291
+       
+    
+    folder: function (tags) {
+      var fruits = ['inbox', 'send', 'spam'];
+      return fruits[tags.integer(0, fruits.length - 1)];
+    }
+  }
+]
+
+Mishra, Sunil
+Hello Shiva
+2:37 PM
+Karapa, Shiva
+https://hps-ie1a-vs97to.dev1.honeywell.com
+2:37 PM
+We saved this conversation in the Conversations tab in Lync and in the Conversation History folder in Outlook.hi
+2:51 PM
+can u share the ticket num
+2:51 PM
+Mishra, Sunil
+Hello Shiva 
+3:03 PM
+Yes, sure 
+3:03 PM
+The ticket number is INC000011667182
+3:03 PM
+Karapa, Shiva
+ok thanQ
+3:04 PM
+1702141559
+https://itsupportportal.honeywell.com/ITSupport/dashboard.htm
+
+imc000011679775
+h182236
+
+Jose, Mathew
+HPS-GAT <DLHPS-GAT@Honeywell.com (DLHPS-GAT@Honeywell.com)> 
+2:49 PM
+ ---------------------------------------------------------------------------Jose, Mathew
+http://access.dev1.honeywell.com/dev1_requests/asset_Access.aspx 
+2:52 PM
+\\10.78.36.104\BusinessFlex\SoftwareTools (file://10.78.36.104/BusinessFlex/SoftwareTools)  
+3:08 PM
+\\10.78.36.102\BFLEX_NewBuilds 
+3:16 PM
+
+https://wf5.myhcl.com/InductionPortal/Interfaces/Login.aspx
+Login Id: shivabala.r3@gmail.com
+Password: 14503392
+
+
+http://www.dotnetcurry.com/angularjs/1114/angularjs-cheatsheet-beginner-developers-part1
+http://tutorials.jenkov.com/angularjs/timeout-interval.html
+http://javascript.info/tutorial/factory-constructor-pattern
+
+ameya ranjan
+hris.support@itcinfotech.com
+Password1
+
+J, Sairama
+8904968992
+
+arundit machine ip
+199.63.73.229
+
+Welcome1 
+
+http://jsfiddle.net/z8w4vuau/50/
+
+
+
+
+
